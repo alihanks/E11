@@ -1,5 +1,5 @@
 ## Welcome to Engineering 11
-**<font size="+3"> A Hands-on Introduction to Radiation Detection: Getting to Know our Radioactive World</font>**
+**<font size="+1"> A Hands-on Introduction to Radiation Detection: Getting to Know our Radioactive World</font>**
 
 This course is an introduction to basic concepts in radiation detection and radioactivity, electrical circuits, and data analytics. Lectures provide the theoretical foundation of the work being performed in the accompanying laboratory. The course will contain three sections: introduction to how radiation interacts with matter and radiation detection technologies; development of the tools (mathematical and computational) needed for analyzing various types of radiation and environmental data; and building of a basic radiation sensor system.
 
