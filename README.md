@@ -6,6 +6,7 @@ Introduction to basic concepts in radiation detection and radioactivity, electri
 ### Course Syllabus
 
 Fall 2019
+
 | **Date** | **Week** | **Lecture Topic** | **Lab/HW** |
 |----------|----------|-------------------|------------|
 | Aug. 28-30| 1 | Introduction | Basic introdution to programming |
