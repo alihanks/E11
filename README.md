@@ -6,18 +6,14 @@ This course is an introduction to basic concepts in radiation detection and radi
 ### Course Syllabus
 
 [**Fall 2019**](syllabus_2019.html)
+<iframe src="syllabus_2019.html">
+</iframe>
 
 ### Textbook References
 - Robert S. Witte, John S. Witte, “Statistics”, 11th Edition, 2016, ISBN: 978-1-119-25451-5
 - Mahmood Nahvi and Joseph A. Edminister, [“Schaum's Outline of Electric Circuits”, 7th ed.](https://www.accessengineeringlibrary.com/browse/schaums-outline-of-electric-circuits-seventh-edition)
 - G.F. Knoll, "Radiation Detection and Measurement," 4th Edition, 2010, ISBN: 978-0-470-13148-0
 - Anthony Scopatz, Kathryn Huff, “Effective Computation in Physics: Field Guide to Research with Python”, 2015
-
-
-```markdown
-Syntax highlighted code block
-```
-
 
 ### Grading Method
 
