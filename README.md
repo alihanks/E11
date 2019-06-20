@@ -7,8 +7,8 @@ Introduction to basic concepts in radiation detection and radioactivity, electri
 
 Fall 2019
 
-|   **Date**   |**Week**| **Lecture Topic** | **Lab/HW** |
-|--------------| :----: |-------------------|------------|
+| __**Date**__<img width=400/> |__**Week**__<img width=10/>| __**Lecture Topic**__<img width=1400/> | __**Lab/HW**__<img width=1000/> |
+|:--------------:| :----: |-------------------|------------|
 | Aug. 28-30 | 1 | Introduction: getting to know our radioactive world <br> - Radiation around us: natural and man-made sources <br> - Applications of radiation | Basic introdution to programming <br> - **HW** Python/ipython setup |
 | Sept. 3-6 | 2 | Statistics and modeling <br> - Stochastic processes <br> - Counting statistics | Poisson/gaussian uncertainties <br> - T-test analysis |
 | Sept.  9-13 | 3 | Getting to know our radioactive world part 2 <br> - Activity and specific activity <br> - Types of radioactive decay, decay chains | Correlations in data <br> - linear and non-linear correlations |
