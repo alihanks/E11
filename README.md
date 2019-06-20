@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Engineering 11 - A Hands-on Introduction to Radiation Detection: Getting to Know our Radioactive World
 
-You can use the [editor on GitHub](https://github.com/alihanks/E11-lessons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Course Description
+Introduction to basic concepts in radiation detection and radioactivity, electrical circuits, and data analytics. Lectures provide the theoretical foundation of the work being performed in the accompanying laboratory. The course will contain three sections: introduction to how radiation interacts with matter and radiation detection technologies; development of the tools (mathematical and computational) needed for analyzing various types of radiation and environmental data; and building of a basic radiation sensor system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Syllabus
 
-### Markdown
+Fall 2019
+| **Date** | **Week** | **Lecture Topic** | **Lab/HW** |
+|----------|----------|-------------------|------------|
+| Aug. 28-30| 1 | Introduction | Basic introdution to programming |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Textbook References
+- Robert S. Witte, John S. Witte, “Statistics”, 11th Edition, 2016, ISBN: 978-1-119-25451-5
+- Mahmood Nahvi and Joseph A. Edminister, [“Schaum's Outline of Electric Circuits”, 7th ed.](https://www.accessengineeringlibrary.com/browse/schaums-outline-of-electric-circuits-seventh-edition)
+- G.F. Knoll, "Radiation Detection and Measurement," 4th Edition, 2010, ISBN: 978-0-470-13148-0
+- Anthony Scopatz, Kathryn Huff, “Effective Computation in Physics: Field Guide to Research with Python”, 2015
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +36,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Grading Method
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alihanks/E11-lessons/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The course grade will be based on homework (20%), lab participation (20%), a final project and group presentation (40%), and a final written report (20%).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
