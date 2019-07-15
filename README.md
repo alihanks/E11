@@ -23,6 +23,7 @@ This course is an introduction to basic concepts in radiation detection and radi
 #### Q&A and content review
 * **Wednesdays** from **10:00 AM - 12:00 PM**  
   * **Etcheverry Hall, Room 4159**  
+
 #### Extra Lab time
 * **Thursdays** from **10:00 AM - 12:00 PM**  
   * **Etcheverry Hall, Room 1110C**  
