@@ -11,25 +11,27 @@ This course is an introduction to basic concepts in radiation detection and radi
 
 &nbsp;
 
-### [Device Development Project Details](device_project_details.html)
+### [Device Development Task Details](device_project_details.html)
+Students will work in groups of two to develop a portion of the sensor data acquisition or calibration. These tasks will require a full understanding of how the chosen sensor works and interfaces with the raspberry pi computer. Each group will have several weeks to complete and test their component and share their work with other groups for interface feedback, ultimately integrating their work with work from other groups to make a fully functioning final device with final project ready data acquisition systems.
 
 ### [Final Group Project Details](final_project_details.html)
+Students will work in groups of two or three (this can be the same group chosen for your development tasks) to come up with a research project using data collected with their portable radiation and environmental sensor devices, or collected through the larger sensor network these devices are modeled after, to explore a questions related to radiation in our environment.
 
-### Class Schedule
-#### Lecture
+### <font size="+1">Class Schedule</font>
+#### <font size="+1">Lecture</font>
 * **Tuesdays** from **9:30 - 11:00 AM**  
   * **Evans Hall, Room 41**
 
-#### Laboratory
+#### <font size="+1">Laboratory</font>
 * **Wednesdays** from **2:00 - 4:00 PM**  
   * **Life Sciences, Room 2062**  
 
-#### Office Hours
-##### Q&A and content review
+#### <font size="+1">Office Hours</font>
+##### <font size="+1">Q&A and content review</font>
 * **Wednesdays** from **10:00 AM - 12:00 PM**  
   * **Etcheverry Hall, Room 4159**  
 
-##### Extra Lab time
+##### <font size="+1">Extra Lab time</font>
 * **Thursdays** from **10:00 AM - 12:00 PM**  
   * **Etcheverry Hall, Room 1110C**  
 
