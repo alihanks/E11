@@ -9,6 +9,7 @@ This course is an introduction to basic concepts in radiation detection and radi
 <iframe src="syllabus_2019.html" width="100%" height="500px">
 </iframe>
 
+&nbsp;
 
 ## Schedule
 ### Lecture
