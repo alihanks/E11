@@ -33,8 +33,9 @@ layout: default
         font-size: 15px;
       }
 
-      .active, .collapsible:hover {
+      .collapsible:hover {
         background-color: #FFCD00;
+        color:black;
       }
 
       .content {
@@ -47,10 +48,10 @@ layout: default
   </head>
 
   <body>
-      <header>
+      <!--header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
+      </header-->
 
       <div id="banner">
         <span id="logo"></span>
@@ -78,7 +79,8 @@ layout: default
     method.</p>
 
   <p>
-    Each group will be responsible for completing the following tasks, along with the main goal of their project:
+    Each group will be responsible for completing the following tasks, along 
+    with the main goal of their project:
     <ul>
       <li> Make README files and user interface (command-line interface) for
         running your software.</li>
