@@ -39,6 +39,17 @@
   </head>
   
 <body>
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <section>
 <table id="syllabus">
   <tr>
     <th width="13%" > Date </th>
@@ -214,5 +225,9 @@
     <td> </td>
   </tr>
 </table>
+      </section>
+    </div>
+
+
 </body>
 </html>
