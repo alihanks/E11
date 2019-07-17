@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <style>
+      #ccontent {
+        border-collapse: collapse;
+        width: 90%;
+      }
+      #mcontent {
+        border-collapse: collapse;
+        width: 90%;
+      }
+      .collapsible {
+        background-color: #5386D2;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 90%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+      }
+
+      .collapsible:hover {
+        background-color: #FFCD00;
+        color:black;
+      }
+
+      .ccontent {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+        background-color: #f1f1f1;
+        width: 84%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!--header>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </header-->
+
+    <div id="banner">
+      <span id="logo"></span>
+    </div><!-- end banner -->
+
+   <div class="wrapper">
+     <h1> Final Projects </h1>
+     <div id="mcontent">
+        <p>
+          You will have the last 2 to 3 weeks to complete your final project.
+          Following that period, each group will give a 15 minute presentation
+          of their final project results to the class. A final report will be
+          due by the end of term.
+        </p>
+
+        <p>
+          This final project presentation and report is in place of a final
+          exam. You will be expected to include elements of the content covered
+          in the lectures, and your lab experiences, including technical details
+          describing how your detection system acquires data and the associated
+          experimental uncertainties, and the correct application of statistical
+          methods in the analysis of your data.
+        </p>
+
+        <p>
+          Potential projects include, but are not limited to, those described
+          in the list bellow. You are encouraged to propose your own topics if
+          there is something you want to explore that is not listed below.
+        </p>
+
+   </div>
+  </body>
+</html>
