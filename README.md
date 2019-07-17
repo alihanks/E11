@@ -5,7 +5,7 @@ This course is an introduction to basic concepts in radiation detection and radi
 
 ## Course Syllabus
 
-[**Fall 2019**](syllabus_2019.html)
+[**Fall 2019**](https://github.com/alihanks/E11/blob/master/syllabus_2019.html)
 <iframe src="syllabus_2019.html" width="100%" height="500px">
 </iframe>
 
