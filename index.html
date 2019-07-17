@@ -20,7 +20,6 @@ layout: default
         width: 90%;
       }
       #mcontent {
-        border-collapse: collapse;
         width: 90%;
       }
       .collapsible {
@@ -47,6 +46,10 @@ layout: default
       }
       p.thick {
         font-weight: bold;
+      }
+      p.thick_plus {
+        font-weight: bold;
+        font-size: +1;
       }
       p.sub {
         width: 90%;
@@ -75,11 +78,9 @@ layout: default
       <h1> Welcome to Engineering 11 </h1>
 
       <div class="mcontent">
-        <p class="thick">
-          <font size="+1">
-            A Hands-on Introduction to Radiation Detection:
-            Getting to Know our Radioactive World
-          </font>
+        <p class="thick_plus">
+          A Hands-on Introduction to Radiation Detection:
+          Getting to Know our Radioactive World
         </p>
       </div>
 
@@ -154,7 +155,7 @@ layout: default
 
       <div class="mcontent">
         <h2> Textbook References </h2>
-        <ul>
+        <ul class="sub">
           <li> Robert S. Witte, John S. Witte, “Statistics”, 11th Edition,
             2016, ISBN: 978-1-119-25451-5 </li>
           <li> Mahmood Nahvi and Joseph A. Edminister,
