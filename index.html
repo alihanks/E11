@@ -73,12 +73,12 @@ layout: default
  <div class="wrapper">
 
 <h1> Welcome to Engineering 11 </h1>
-<div class="mcontent">
+<p class="sub">
   <font size="+1"> 
     <p class="thick">A Hands-on Introduction to Radiation Detection: Getting to Know our Radioactive World
     </p>
   </font>
-</div>
+</p>
 
 <p class="sub">
 This course is an introduction to basic concepts in radiation detection and radioactivity, electrical circuits, 
@@ -140,8 +140,9 @@ these devices are modeled after, to explore a questions related to radiation in 
   <li class="thick"> Etcheverry Hall, Room 1110C </li>
 </ul>
 
+<p class="sub">
 <h2> Textbook References </h2>
-<ul class="sub">
+<ul>
   <li> Robert S. Witte, John S. Witte, “Statistics”, 11th Edition, 2016, ISBN: 978-1-119-25451-5 </li>
   <li> Mahmood Nahvi and Joseph A. Edminister, 
     <a href="https://www.accessengineeringlibrary.com/browse/schaums-outline-of-electric-circuits-seventh-edition">
@@ -149,6 +150,7 @@ these devices are modeled after, to explore a questions related to radiation in 
   <li> G.F. Knoll, "Radiation Detection and Measurement," 4th Edition, 2010, ISBN: 978-0-470-13148-0 </li>
   <li> Anthony Scopatz, Kathryn Huff, “Effective Computation in Physics: Field Guide to Research with Python”, 2015 </li>
 </ul>
+</p>
 
 <h2> Grading Method </h2>
 
@@ -182,6 +184,21 @@ sensor devices you build in class or to donate them to the
 program for installation in a school, including one of your choosing.
 </p class="sub">
 </div>
+  <script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+  </script>
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
